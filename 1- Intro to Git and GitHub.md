@@ -29,4 +29,6 @@ Documentation [here](https://git-scm.com/book/en/v2/Getting-Started-About-Versio
 
 - **2. Git VS Github**
 
-![GitGithub](https://github.com/Ironhack-Data-0621-Remote/GitHub_Basics/blob/main/Images/GithubvsGit.jpeg)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Ironhack-Data-0621-Remote/GitHub_Basics/blob/main/Images/GithubvsGit.jpeg">
+</p>
