@@ -26,8 +26,6 @@ We are doing this so that next time you want to use git, you won't be asked for 
 
 **1. On GitHub, navigate to the main page of the repository.** 
 
-![repo](https://github.com/Ironhack-Data-0621-Remote/GitHub_Basics/blob/main/Images/clone_repo_terminal.png)
-
 **2. Above the list of files, click `Code`.**
 
 You can clone a repository to create a local copy on your computer and sync between the two locations (in local and remote). ﹗ When you clone a repository, you copy the repository from GitHub to your local machine﹗
