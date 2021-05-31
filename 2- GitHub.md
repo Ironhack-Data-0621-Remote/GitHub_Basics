@@ -1,6 +1,6 @@
-# Git & Github  
+# Cloning a repository 
 
-- [Git & Github](#git--github)
+- [Cloning a repository](#cloning-a-repository)
   - [**Cloning a repository using the command line (terminal)**](#cloning-a-repository-using-the-command-line-terminal)
       - [**¿How to clone a new repo?**](#how-to-clone-a-new-repo)
   - [**Cloning a repository to GitHub Desktop**](#cloning-a-repository-to-github-desktop)
