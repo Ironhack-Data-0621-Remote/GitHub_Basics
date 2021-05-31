@@ -5,7 +5,7 @@
 </p>
 
 
-- **What is Version Control and why should you care?**
+- **1. What is Version Control and why should you care?**
 
     Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the examples in this book, you will use software source code as the files being version controlled, though in reality you can do this with nearly any type of file on a computer.
 
@@ -27,7 +27,7 @@
 
     More documentation 👉🏽 [here](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 
-- **Git VS Github**
+- **2. Git VS Github**
   
   - **Git** is local VCS software that allows developers to save snapshots of their projects over time. It is generally best for individual use.
   
