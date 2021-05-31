@@ -1,8 +1,8 @@
 # Intro to GIT and Version Control
 
-![portada](https://github.com/Ironhack-Data-0621-Remote/GitHub_Basics/blob/main/Images/giphy.gif)
-
-- [Intro to GIT and Version Control](#intro-to-git-and-version-control)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Ironhack-Data-0621-Remote/GitHub_Basics/blob/main/Images/giphy.gif">
+</p>
 
 
 - **1. What is Version Control and why should you care?**
@@ -26,3 +26,7 @@ GIT is a VCS system designed with the following goals in mind:
 - Not enough reasons to learn GIT. Well, it is an absolute industry standard so... deal with it
 
 Documentation [here](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+
+- **2. Git VS Github**
+
+![GitGithub](https://github.com/Ironhack-Data-0621-Remote/GitHub_Basics/blob/main/Images/GithubvsGit.jpeg)
