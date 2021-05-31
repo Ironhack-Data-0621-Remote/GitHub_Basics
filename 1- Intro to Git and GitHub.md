@@ -40,25 +40,25 @@
 
 - **3. Terminology**
   
-- **Repository or repo** : storage location for a software package ("a folder with git monitoring")
-- **Untracked** : a file or directory not monitored by git, does not belong to the repo
-tracked : a file git was instructed to monitor (through the add command.)
+  - **Repository or repo** : storage location for a software package ("a folder with git monitoring")
+  - **Untracked** : a file or directory not monitored by git, does not belong to the repo
+  tracked : a file git was instructed to monitor (through the add command.)
 
-- **Commit** : a point on the temporal line of a repository. A "snapshot" of all the changes we "made official", or the last state of staged files before we commited. Every commit has a unique id and must have a commit message. The more descriptive the message, the better.
-
-
-- **Local repo** : a repository of code on the computer you are currently using
-  
-- **Remote** : a repository on a different machine (e.g.: Github)
-  
-- **Forking a repo** : creating an alternative timeline for a repo, usually someones repo we want to have a copy of our own.
-cloning a repo : making a local copy of a remote repo. 
+  - **Commit** : a point on the temporal line of a repository. A "snapshot" of all the changes we "made official", or the last state of staged files before we commited. Every commit has a unique id and must have a commit message. The more descriptive the message, the better.
 
 
-- **Push** : sending the changes from local repo to a remote.
-  
+  - **Local repo** : a repository of code on the computer you are currently using
+    
+  - **Remote** : a repository on a different machine (e.g.: Github)
+    
+  - **Forking a repo** : creating an alternative timeline for a repo, usually someones repo we want to have a copy of our own.
+  cloning a repo : making a local copy of a remote repo. 
 
-- **Pull** : bringing changes of a remote repo to a local one. 
-  
-- **.gitignore** : text file with files/folders we do not want git to track or ask about.
+
+  - **Push** : sending the changes from local repo to a remote.
+    
+
+  - **Pull** : bringing changes of a remote repo to a local one. 
+    
+  - **.gitignore** : text file with files/folders we do not want git to track or ask about.
 
