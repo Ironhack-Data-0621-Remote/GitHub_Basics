@@ -39,27 +39,26 @@
 
 
 - **3. Terminology**
-repository | repo : storage location for a software package ("a folder with git monitoring")
-untracked : a file or directory not monitored by git, does not belong to the repo
+  
+- **Repository or repo** : storage location for a software package ("a folder with git monitoring")
+- **Untracked** : a file or directory not monitored by git, does not belong to the repo
 tracked : a file git was instructed to monitor (through the add command.)
-commit : a point on the temporal line of a repository. A "snapshot" of all the changes we "made official", or the last state of staged files before we commited. Every commit has a unique id and must have a commit message. The more descriptive the message, the better.
-local repo : A repository of code on the computer you are currently using
-remote : A repository on a different machine (e.g.: Github)
-forking a repo : creating an alternative timeline for a repo, usually someones repo we want to have a copy of our own.
-cloning a repo : making a local copy of a remote repo
-push : sending the changes from local repo to a remote.
-pull : bringing changes of a remote repo to a local one
-.gitignore : text file with files/folders we do not want git to track or ask about.
 
-e.g.:
+- **Commit** : a point on the temporal line of a repository. A "snapshot" of all the changes we "made official", or the last state of staged files before we commited. Every commit has a unique id and must have a commit message. The more descriptive the message, the better.
 
-logo.jpg # git ignores file with specific name
 
-develop_test/ # git ignores directory with specific name and all it's content. Mind the / after the name.
+- **Local repo** : a repository of code on the computer you are currently using
+  
+- **Remote** : a repository on a different machine (e.g.: Github)
+  
+- **Forking a repo** : creating an alternative timeline for a repo, usually someones repo we want to have a copy of our own.
+cloning a repo : making a local copy of a remote repo. 
 
-*.jpg # git ignores all files with given extension
 
-branch : the different timelines of a repository. It allows for parallel development.
-merge : joining the changes of a branch into another. It is the opposite of forking, instead of separating, it unites two "timelines"
-pull request : the act of asking the owner of a repository to merge the changes on your fork/branch. It is literally the request for him to pull your changes.
-Commands¶
+- **Push** : sending the changes from local repo to a remote.
+  
+
+- **Pull** : bringing changes of a remote repo to a local one. 
+  
+- **.gitignore** : text file with files/folders we do not want git to track or ask about.
+
