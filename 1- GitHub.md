@@ -26,13 +26,13 @@ We are doing this so that next time you want to use git, you won't be asked for 
 
 **1. On GitHub, navigate to the main page of the repository.** 
 
-![repo](https://github.com/Ironhack-Data-0621-Remote/Classroom-Materials/blob/main/Images/clone_repo_terminal.png)
+![repo](https://github.com/Ironhack-Data-0621-Remote/GitHub_Basics/blob/main/Images/clone_repo_terminal.png)
 
 **2. Above the list of files, click `Code`.**
 
 You can clone a repository to create a local copy on your computer and sync between the two locations (in local and remote). ﹗ When you clone a repository, you copy the repository from GitHub to your local machine﹗
 
-![clone](https://github.com/Ironhack-Data-0621-Remote/Classroom-Materials/blob/main/Images/clone_repo_terminal.png)
+![clone](https://github.com/Ironhack-Data-0621-Remote/GitHub_Basics/blob/main/Images/clone_repo_terminal.png)
 
 **3. Open Terminal.**
 
@@ -72,9 +72,9 @@ You can clone a repository to create a local copy on your computer and sync betw
 
 **3. Click `Open with GitHub Desktop` to clone and open the repository with GitHub Desktop**  
 
-![clonedesktop](https://github.com/Ironhack-Data-0621-Remote/Classroom-Materials/blob/main/Images/clone_desktop.png)
+![clonedesktop](https://github.com/Ironhack-Data-0621-Remote/GitHub_Basics/blob/main/Images/clone_desktop.png)
 
 **5. Click `Choose...` and, using the Finder window, navigate to a local path where you want to clone the repository.**
-![choose](https://github.com/Ironhack-Data-0621-Remote/Classroom-Materials/blob/main/Images/choose...png)
+![choose](https://github.com/Ironhack-Data-0621-Remote/GitHub_Basics/blob/main/Images/choose...png)
 
 **6. Click `Clone`.**
