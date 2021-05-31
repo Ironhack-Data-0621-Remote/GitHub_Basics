@@ -1,5 +1,7 @@
 # How to create a pull request
 
+- [How to create a pull request](#how-to-create-a-pull-request)
+
 The pull request will be used to share with the TA's the labs that you will be doing throughout the bootcamp. 
 
 **1. To create a pull request it is mandatory to `fork` the repo. How we can *fork* a repo?** 

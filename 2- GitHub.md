@@ -1,5 +1,11 @@
 # Git & Github  
 
+- [Git & Github](#git--github)
+  - [**Cloning a repository using the command line (terminal)**](#cloning-a-repository-using-the-command-line-terminal)
+      - [**¿How to clone a new repo?**](#how-to-clone-a-new-repo)
+  - [**Cloning a repository to GitHub Desktop**](#cloning-a-repository-to-github-desktop)
+      - [**¿How to clone a new repo?**](#how-to-clone-a-new-repo-1)
+
 Git is a version control software. It trackes the changes made to a document or a group of documents. We could use git and Github throught the terminal or using GitHub desktop
 
 
